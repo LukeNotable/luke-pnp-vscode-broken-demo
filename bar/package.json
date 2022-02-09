@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "packageManager": "yarn@3.1.1",
+  "devDependencies": {
+    "@types/uuid": "^8.3.4",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "foo": "portal:../foo",
+    "uuid": "^8.3.2"
+  }
+}
